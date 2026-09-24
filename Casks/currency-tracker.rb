@@ -1,6 +1,6 @@
 cask "currency-tracker" do
-  version "1.8"
-  sha256 "6bb08593bb524214897c7c7e7e56060f4711a48bc112808aa8cb8040ad4791be"
+  version "1.8.1"
+  sha256 "9ac9df19ebecc6e7aa308252c2bc0fed6018987485db592a8e2c8277337c6b4d"
 
   url "https://github.com/Agumuzi/Currency-Tracker/releases/download/v#{version}/Currency-Tracker-#{version}.zip"
   name "Currency Tracker"
